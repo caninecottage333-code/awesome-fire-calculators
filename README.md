@@ -161,6 +161,9 @@ Test your plan against thousands of possible market scenarios.
 - [Mr. Money Mustache Forum](https://forum.mrmoneymustache.com/) - OG FIRE community
 - [Bogleheads](https://www.bogleheads.org/forum/) - Index investing focus
 - [Early Retirement Extreme](http://earlyretirementextreme.com/) - Philosophical, minimalist approach
+- [Barista FIRE Explained](https://medium.com/@dicktracey909/barista-fire-explained-the-math-be
+  hind-semi-retirement-9dc69d64f0f5) - Deep dive into the math behind semi-retirement            
+                                                                                       
 
 ---
 
@@ -180,6 +183,7 @@ Test your plan against thousands of possible market scenarios.
 - [Early Retirement Now](https://earlyretirementnow.com/) - Deep quantitative analysis
 - [The Fioneers](https://thefioneers.com/) - Work optional lifestyle design
 - [Go Curry Cracker](https://www.gocurrycracker.com/) - International early retirement
+- 
 
 ### Podcasts
 
