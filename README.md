@@ -40,7 +40,7 @@ Maintained by [UngrindFi](https://ungrindfi.com) — Free FIRE calculators that 
 
 Coast FIRE = the point where you've saved enough that compound growth alone will fund traditional retirement, even if you stop contributing.
 
-- [UngrindFi Coast FIRE Calculator](https://ungrindfi.com/coast-fire-calculator) - Visual timeline showing contribution vs. coasting phases. Supports pension income.
+- [UngrindFi Coast FIRE Calculator](https://ungrindfi.com/tools/coast-fire-calculator) - Visual timeline showing contribution vs. coasting phases. Supports pension income.
 - [WalletBurst Coast FIRE](https://walletburst.com/tools/coast-fire-calc/) - Clean interface, instant chart updates.
 - [CoastFIRECalc.com](https://coastfirecalc.com/) - Single-purpose exact-match domain tool.
 - [Marriage Kids and Money](https://marriagekidsandmoney.com/calculators/coast-fire/) - Wizard-style inputs with video explainers.
@@ -63,7 +63,7 @@ Coast FIRE = the point where you've saved enough that compound growth alone will
 
 Barista FIRE = semi-retirement with part-time income covering some expenses, reducing the portfolio needed.
 
-- [UngrindFi Barista FIRE Calculator](https://ungrindfi.com/barista-fire-calculator) - Shows the "gap" between expenses and side income that your portfolio must cover.
+- [UngrindFi Barista FIRE Calculator](https://ungrindfi.com/tools/barista-fire-calculator) - Shows the "gap" between expenses and side income that your portfolio must cover.
 - [Money Flamingo Barista FIRE](https://www.moneyflamingo.com/barista-fire/) - Includes the "Flamingo FI" variant concept.
 - [WalletBurst Barista FIRE](https://walletburst.com/tools/barista-fire-calc/) - Visual gap analysis.
 
@@ -79,7 +79,6 @@ How much can you safely withdraw each year without running out of money?
 
 ### Calculators
 
-- [UngrindFi 4% Rule Calculator](https://ungrindfi.com/safe-withdrawal-rate-calculator) - Includes sequence-of-returns risk visualization.
 - [FICalc](https://ficalc.app/) - Modern interface with multiple withdrawal strategies (constant dollar, percent of portfolio, VPW).
 - [Early Retirement Now SWR Series](https://earlyretirementnow.com/safe-withdrawal-rate-series/) - The definitive 50+ part research series on safe withdrawal rates.
 
@@ -101,7 +100,7 @@ Accessing retirement accounts before 59½ without the 10% penalty.
 
 Section 72(t) allows penalty-free withdrawals via Substantially Equal Periodic Payments.
 
-- [UngrindFi 72t Calculator](https://ungrindfi.com/72t-sepp-calculator) - Compares all three IRS methods: RMD, Fixed Amortization, Fixed Annuitization.
+- [UngrindFi 72t Calculator](https://ungrindfi.com/tools/72t-sepp-calculator) - Compares all three IRS methods: RMD, Fixed Amortization, Fixed Annuitization.
 - [72t.net](https://72t.net/72t/Calculator) - The original 72t resource, comprehensive but dated UI.
 - [Corebridge Financial 72t Calculator](https://www.corebridgefinancial.com/insights-education/retirement-calculators/internal-revenue-code-section-72t-calculator) - Clean institutional tool.
 
@@ -127,7 +126,6 @@ Section 72(t) allows penalty-free withdrawals via Substantially Equal Periodic P
 
 Test your plan against thousands of possible market scenarios.
 
-- [UngrindFi Monte Carlo Simulator](https://ungrindfi.com/monte-carlo-simulator) - Visual probability distribution with success rate analysis.
 - [Portfolio Visualizer Monte Carlo](https://www.portfoliovisualizer.com/monte-carlo-simulation) - Professional-grade with asset class correlation modeling.
 - [Engaging Data Rich/Broke/Dead](https://engaging-data.com/fire-calculator/) - Unique visualization showing probability outcomes by age.
 - [FIRECalc](https://firecalc.com/) - Tests against every historical 30-year period since 1871.
@@ -217,7 +215,7 @@ Contributions welcome! Please read the contribution guidelines before submitting
 ## Connect
 
 - 🌐 [UngrindFi](https://ungrindfi.com) - Free FIRE calculators
-- 🔗 [All Links](https://linktr.ee/ungrindfi) *(coming soon)*
+- 🔗 [All Links](https://linktr.ee/ungrindfi)
 
 ---
 
