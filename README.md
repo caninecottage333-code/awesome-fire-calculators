@@ -143,6 +143,10 @@ Test your plan against thousands of possible market scenarios.
 
 - [Vertex42 Retirement Calculator](https://www.vertex42.com/Calculators/retirement-calculator.html) - Detailed Excel model with Social Security.
 
+### Presentations
+
+- [The 5 Types of FIRE](https://www.slideshare.net/slideshow/the-5-types-of-fire-which-path-to-financial-independence-fits-you/285561238) - Visual guide comparing Lean, Coast, Barista, Regular, and Fat FIRE
+
 ---
 
 ## Communities
