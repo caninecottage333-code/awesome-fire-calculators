@@ -187,6 +187,7 @@ Test your plan against thousands of possible market scenarios.
 - [Barista FIRE Explained](https://medium.com/@dicktracey909/barista-fire-explained-the-math-behind-semi-retirement-9dc69d64f0f5) - Deep dive into the math behind semi-retirement
 - [Coast FIRE Explained](https://ungrindfi.hashnode.dev/coast-fire-the-math-behind-stop-saving-keep-growing) - The math behind "stop saving, keep growing"
 - [Lean FIRE Explained](https://www.tumblr.com/fountainofvastknowledge/806847497151660032/lean-fire-retire-on-25kyear-yes-really) - Retire on $25k/year with geographic arbitrage
+- [72(t) SEPP Guide](https://fountainofvastknowledge.blogspot.com/2026/01/72t-sepp-how-to-access-your-ira-before.html) - Access your IRA before 59½ without penalty
 
 ### Podcasts
 
