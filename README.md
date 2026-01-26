@@ -183,7 +183,7 @@ Test your plan against thousands of possible market scenarios.
 - [Early Retirement Now](https://earlyretirementnow.com/) - Deep quantitative analysis
 - [The Fioneers](https://thefioneers.com/) - Work optional lifestyle design
 - [Go Curry Cracker](https://www.gocurrycracker.com/) - International early retirement
-- [Coast FIR Explained](https://ungrindfi.hashnode.dev/coast-fire-the-math-behind-stop-saving-keep-growing) - The math behind "stop saving, keep growing"
+- [Coast FIRE Explained](https://ungrindfi.hashnode.dev/coast-fire-the-math-behind-stop-saving-keep-growing) - The math behind "stop saving, keep growing"
 
 ### Podcasts
 
